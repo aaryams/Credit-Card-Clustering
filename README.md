@@ -1,6 +1,7 @@
-Credit Card Clustering
+**Credit Card Clustering**
 
-Overview
+
+**Overview**
 
 This project explores customer segmentation using unsupervised machine learning techniques. By clustering credit card customers based on their transaction history and behavioral data, the goal is to identify different customer segments to enable targeted marketing strategies, customer retention plans, and personalized services.
 
